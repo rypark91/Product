@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.both {
+  display: flex;
+  justify-content: space-around;
+}
+#nav {
+  background-color: #292929;
+  padding: 7px;
+
+}
+#main {
+  background-color: #f0f0f0;
+  padding: 130px;
+}
+#bottom {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+a {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #38b9c7;
+}
+button {
+  background-color: #38b9c7;
+}
+h2{
+  font-size: 50px;
+  font-weight: 500;
+}
